@@ -2,7 +2,7 @@ body{
     background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #fdfdfd;
+    color: #000000;
     text-align: center;
     display: inline;
     font-size: 14px;
@@ -10,7 +10,7 @@ body{
     h3{
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #fdfdfd;
+    color: #00c9bf;
     text-align: center;
     display: inline;
     font-size: 14px;
