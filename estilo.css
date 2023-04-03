@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(0, 238, 255);
+    background-color:rgb(0, 171, 250);
     font-family: 'Lucida Sans';
     font-size: small;
     color: #000000;
@@ -10,24 +10,29 @@ body{
     h3{
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #71ffff;
+    color: #ffffff;
     text-align: center;
     display: inline;
     font-size: 14px;
+    }
+
+    .Pizza{
+        width:505 ;
+        height:455 ;
     }
     .linha {
     font-family: 'Lucida Sans';
     font-size: small;
     font-size: 12px;
-    background-color:rgb(0, 198, 233);
+    background-color:rgb(252, 252, 252);
     }
     .lista {
     font-family: 'Lucida Sans';
     font-size: small;
     text-align: left;
     font-size: 12px;
-    color:rgb(2, 141, 151);
+    color:rgb(0, 204, 211);
     }
     .itens {
-    background-color: rgb(1, 232, 248);
+    background-color: rgb(0, 211, 211);
     }
