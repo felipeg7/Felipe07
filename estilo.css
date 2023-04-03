@@ -17,12 +17,13 @@ body{
     }
 
     .Pizza{
-        width:505 ;
-        height:455 ;
+        width: 267px;
+        height: 180px;
+    
     }
     .Futebol{
-        width:505 ;
-        height:455 ;
+        width: 267px;
+        height: 180px;
     }
     .linha {
     font-family: 'Lucida Sans';
