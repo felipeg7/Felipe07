@@ -47,7 +47,11 @@ text-align: center;
 color: #000000;
      }
      .avatar{
-        
+        position: absolute;
+width: 165px;
+
+left: 179px;
+top: 57px;
      }
     .linha {
     font-family: 'Italiana';
