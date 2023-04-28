@@ -15,10 +15,14 @@ body{
     display: inline;
     font-size: 14px;
     }
-
     .Pizza{
         width: 267px;
         height: 180px;
+    
+    }
+    .rei{
+        width: 267px;
+       
     
     }
     .Futebol{
