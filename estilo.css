@@ -71,6 +71,7 @@ top: 57px;
     color: #000000;
     }
     .itens {
+        position: absolute;
         top:320px;
     background-color: rgb(0, 242, 250);
     }
