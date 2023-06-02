@@ -106,8 +106,8 @@ background: linear-gradient(180deg, rgba(3, 236, 247, 0) 0%, #03ECF7 100%);
     }
     .itens {
         position: absolute;
-        top: 320px;
-        left: 540px;
+        top: 200px;
+        left: 25%;
         background-color: rgb(3 236 247);
     }
 
