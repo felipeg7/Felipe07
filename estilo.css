@@ -16,7 +16,28 @@ top: 0px;
 
 background: linear-gradient(180deg, #03ECF7 0%, rgba(3, 236, 247, 0) 98.96%);
     }
+.cabec{
 
+    position: absolute;
+    width: 1440px;
+    height: 221px;
+    left: 0px;
+    top: 24px;
+    
+    background: #03ECF7;
+
+}
+.corpo{
+
+
+position: absolute;
+width: 1440px;
+height: 676px;
+left: 0px;
+top: 221px;
+
+background: linear-gradient(180deg, #03ECF7 0%, rgba(3, 236, 247, 0) 98.96%);
+}
     h3{
     font-family: 'Italiana';
     font-size: small;
@@ -88,6 +109,14 @@ top: 57px;
     text-align: left;
     font-size: 24px;
     color: #000000;
+
+position: absolute;
+width: 1440px;
+height: 103px;
+left: 0px;
+top: 921px;
+
+background: linear-gradient(180deg, rgba(3, 236, 247, 0) 0%, #03ECF7 100%);
     }
     .itens {
         position: absolute;
@@ -100,4 +129,14 @@ top: 57px;
         position: absolute;
     top: 900px;
     left: 700px
+    }
+    footer{
+
+    position: absolute;
+width: 1440px;
+height: 24px;
+left: 0px;
+top: 897px;
+
+background: #03ECF7;
     }
