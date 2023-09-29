@@ -137,12 +137,12 @@ top: 897px;
     }
 
 
-    .lista__link a:hoover { 
-        color: var(--botao-azul); 
+     a:hover { 
+        color: #1dee01; 
     }
 
     
     
-    .lista__link a:active { 
-        color: rgb(29, 238, 1); 
+     a:active { 
+        color: #1dee01; 
     }
