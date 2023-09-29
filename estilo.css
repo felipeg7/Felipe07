@@ -137,12 +137,12 @@ top: 897px;
     }
 
 
-     .link:hover { 
-        color: #1dee01; 
+     .texto:hover { 
+        color: #ffffff; 
     }
 
     
     
-      a:active { 
+      .texto:active { 
         color: #1dee01; 
     }
