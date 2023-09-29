@@ -88,6 +88,9 @@ background: linear-gradient(180deg, #03ECF7 0%, rgba(3, 236, 247, 0) 98.96%);
         width: 267px;
         height:180px;
     }
+
+
+
     .Fifa{
         width: 267px;
         height: 180px;
@@ -115,10 +118,8 @@ background: linear-gradient(180deg, rgba(3, 236, 247, 0) 0%, #03ECF7 100%);
         background-color: rgb(3 236 247);
     }
 
-    .frase{
-        position: absolute;
-    top: 900px;
-    left: 700px
+    .frase:hover {
+        color: #ffffff;
     }
 
 footer {
@@ -145,4 +146,9 @@ top: 897px;
     
       .texto:active { 
         color: #000000; 
+    }
+
+    .autor {
+        position: relative;
+        top: 5em;
     }
